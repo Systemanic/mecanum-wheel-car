@@ -1,4 +1,4 @@
-# mecanum-wheel-car
+# Remote Control Mecanum Wheeled Car
 
 The purpose of this project is to create the logic needed to run a 4 wheeled ( mecanum ) car
 
